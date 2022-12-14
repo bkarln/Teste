@@ -1,4 +1,4 @@
-package calculadora.junitt;
+/*package calculadora.junitt;
 
 public class CalculadoraTestes {
     public static void main(String[] args) {
@@ -16,3 +16,4 @@ public class CalculadoraTestes {
         System.out.println(soma);
     }
 }
+*/

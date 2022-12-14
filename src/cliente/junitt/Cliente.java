@@ -1,4 +1,5 @@
-package cliente.junitt;
+/*package cliente.junitt;
 
 public class Cliente {
 }
+*/

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.jdt:org.eclipse.jdt.compiler.tool:1.2.800">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/org.eclipse.jdt.compiler.tool/1.2.800/org.eclipse.jdt.compiler.tool-1.2.800.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/org.eclipse.jdt.compiler.tool/1.2.800/org.eclipse.jdt.compiler.tool-1.2.800-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/org.eclipse.jdt.compiler.tool/1.2.800/org.eclipse.jdt.compiler.tool-1.2.800-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

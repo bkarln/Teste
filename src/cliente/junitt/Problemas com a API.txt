@@ -1,0 +1,4 @@
+A API sugerida para a concluir essa tarefa não funciona mais, por isso precisei buscar outra resolução.
+
+Considere a seguinte API REST: https://tester-global-cliente-api.herokuapp.com/
+E sua documentação:  https://tester-global-cliente-api.herokuapp.com/swagger-ui.html#
