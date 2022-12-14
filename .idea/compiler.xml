@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="junit5-api-example" />
+        <module name="restAssuredProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="junit5-api-example" target="1.8" />
-      <module name="Testes" target="1.8" />
+      <module name="restAssuredProject" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
